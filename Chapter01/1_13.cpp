@@ -28,7 +28,5 @@ int main()
         cout << v1 << endl;
         v1++;
 }
-
-
     return 0;
 }
