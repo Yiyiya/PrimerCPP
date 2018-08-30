@@ -28,7 +28,7 @@ int main()
 }
 ```
 ## Exercise 3.1 
-[1.9](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_9.cpp) 
-[1.10](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_10.cpp)
-[1.11](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_11.cpp)
-[1.6](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_6.cpp)
+[1.9](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_9.cpp), 
+[1.10](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_10.cpp),
+[1.11](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_11.cpp),
+[1.6](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_6.cpp).
