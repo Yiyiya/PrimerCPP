@@ -38,3 +38,6 @@ int main()
 ## Exercise 3.4
 [3.4a](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_04a.cpp),
 [3.4b](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_04b.cpp).
+## Exercise 3.5
+[3.5a](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_05a.cpp),
+[3.5b](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_05b.cpp).
