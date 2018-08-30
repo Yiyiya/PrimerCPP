@@ -32,6 +32,9 @@ int main()
 [1.10](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_10.cpp),
 [1.11](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_11.cpp),
 [1.6](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_6.cpp).
-## Exercise 3.1
+## Exercise 3.2
 [3.2a](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_02a.cpp),
 [3.2b](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_02b.cpp).
+## Exercise 3.4
+[3.4a](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_04a.cpp),
+[3.4b](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_04b.cpp).
