@@ -27,6 +27,27 @@ int main()
     return 0;
 }
 ```
+
+```
+#include <string> 
+using std::string; using std::getline;
+
+#include <iostream> 
+using std::cin; using std::cout; using std::endl;
+
+int main() 
+{
+	string line;
+
+	// read input a line at a time until end-of-file
+	while (getline(cin, line))
+		cout << line << endl;
+
+	return 0;
+}
+```
+
+
 ## Exercise 3.1 
 [1.9](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_9.cpp), 
 [1.10](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/1_10.cpp),
