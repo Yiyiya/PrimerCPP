@@ -63,3 +63,5 @@ int main()
 [3.5a](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_05a.cpp),
 [3.5b](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_05b.cpp).
 ## [Exercise 3.6](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_06.cpp)
+## [Exercise 3.8](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_08.cpp)
+##[Exercise 3.10](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_10.cpp)
