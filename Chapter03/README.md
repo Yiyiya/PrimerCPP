@@ -82,3 +82,20 @@ int main()
 ## [Exercise 3.32](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_32.cpp)
 ## [Exercise 3.35](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_35.cpp)
 ## [Exercise 3.36](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_36.cpp)
+## Exercise 3.37
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    const char ca[] = {'h', 'e', 'l', 'l','o'};
+    const char *cp = ca;
+    while (*cp) {
+        cout << *cp << endl;
+        ++cp;
+    }
+    return 0;
+}
+```
+Print all the elements of the array.
