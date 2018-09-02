@@ -99,5 +99,8 @@ int main()
 }
 ```
 Print all the elements of the array.
-## [Exercise 3.39](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_39.cpp)
-## [Exercise 3.40](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_40.cpp)
+## [Exercise 3.41](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_41.cpp)
+## [Exercise 3.42](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_42.cpp)
+## [Exercise 3.43](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_43.cpp)
+## [Exercise 3.44](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_44.cpp)
+## [Exercise 3.45](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_45.cpp)
