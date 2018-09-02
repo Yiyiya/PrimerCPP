@@ -77,4 +77,6 @@ int main()
 ## [Exercise 3.23](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_23.cpp)
 ## [Exercise 3.24](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_24.cpp)
 ## [Exercise 3.25](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_25.cpp)
-## Exercise 3.36
+## Exercise 3.26
+## [Exercise 3.31](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_32.cpp)
+## [Exercise 3.32](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter03/3_32.cpp)
