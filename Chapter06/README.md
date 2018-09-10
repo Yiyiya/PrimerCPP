@@ -52,7 +52,7 @@ double fabs(double val)
 int main()
 {
     cout << "Enter a number: " << endl;
-    int val = 0;
+    double val = 0;
     cin >> val;
     cout << "The abs of " << val << " is " << fabs(val) << endl;
 
@@ -92,3 +92,4 @@ size_t generate()
     return ctr++;
 }
 ```
+## Exercise 
