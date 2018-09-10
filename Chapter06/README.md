@@ -92,4 +92,5 @@ size_t generate()
     return ctr++;
 }
 ```
-## Exercise 
+## [Exercise 6.8](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter06/Chapter6.h) 
+## Eeercise 6.9 [fact.cc](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter06/fact.cc) |  [factMain.cc](https://github.com/Yiyiya/PrimerCPP/blob/master/Chapter06/fact.cc)
